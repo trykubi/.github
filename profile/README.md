@@ -12,6 +12,6 @@ Give your AI agent its own Linux desktop that stays on. It sees the screen, clic
 </p>
 
 <p align="center">
-Kubi is in development and not available yet.<br>
+<a href="https://trykubi.com">trykubi.com</a> · <a href="https://docs.trykubi.com">Docs</a> · <a href="https://www.npmjs.com/package/@trykubi/sdk">@trykubi/sdk</a><br>
 Questions: <a href="mailto:support@trykubi.com">support@trykubi.com</a>
 </p>

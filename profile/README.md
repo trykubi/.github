@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-<h3 align="center">Always-on Linux desktops for AI agents.</h3>
+<h3 align="center">Cloud desktops for AI agents.</h3>
 
 <p align="center">
 Give your AI agent its own Linux desktop that stays on. It sees the screen, clicks and types, runs commands and moves files through one API, a TypeScript SDK or a hosted MCP server. A person can watch live and take over at any time.
